@@ -35,8 +35,8 @@ I’m a Computer Science and Engineering student exploring full-stack web develo
 ## Featured Projects
 
 - **Student Performance Prediction System** — A project focused on predicting student performance.
-- **Riwaaz** — A project I’m building and developing.
-- **Zudo** — A project I’m building and developing.
+- **Riwaaz** — A full functionality project specifically made for jewellery.
+- **Zudo** — This project is basically for clothing where you can explore cloths of different brands.
 - **AI Spam Message Detector** — A project focused on identifying spam messages using AI.
 
 ## Currently Exploring
