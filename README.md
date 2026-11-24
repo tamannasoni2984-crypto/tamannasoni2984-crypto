@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="mailto:sonitamanna029@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Tamanna"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="sonitamanna029@gmail.com"/>
   </a>
   <a href="https://www.linkedin.com/in/tamanna-soni-808b46329">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Tamanna on LinkedIn"/>
