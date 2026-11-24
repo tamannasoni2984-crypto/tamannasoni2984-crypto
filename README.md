@@ -38,7 +38,8 @@ I’m a Computer Science and Engineering student exploring full-stack web develo
 - **Riwaaz** — A full functionality project specifically made for jewellery.
 - **Zudo** — This project is basically for clothing where you can explore cloths of different brands.
 - **AI Spam Message Detector** — A project focused on identifying spam messages using AI.
-
+- **Medicare-ai** — Project based on hospital management system.
+  
 ## Currently Exploring
 
 **Full-stack development · AI engineering · Building practical projects**
